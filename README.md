@@ -1,4 +1,4 @@
-# it-school-clone
+IT SCHOOL CLONE
 Website de prezentare
 
 VIZUALIZARE SITE:
