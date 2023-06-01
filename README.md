@@ -1,4 +1,5 @@
-IT SCHOOL CLONE
+#IT SCHOOL CLONE
+
 Website de prezentare
 
 VIZUALIZARE SITE:
